@@ -1,3 +1,7 @@
+## Author: Francisco Chima Sanchez
+## Created: 2016-03-10
+## Last Modified: 2017-04-05
+
 # This script demonstrates the use of Newton's Method applied to the function $f(x) = \cos x - x$, and returns
 # a zero of the function in the neighborhood of the initial guess. Tolerance for the iteration results is set to
 # $10^{-6} = 0.000006$. Algorithm is iterated until the difference in iterations is less than the tolerance
